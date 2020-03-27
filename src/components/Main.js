@@ -5,7 +5,7 @@ export default class Main extends React.Component {
     render() {
         return (
             <div>
-                This  is some sample text
+                This  is some other sample text
             </div>
         )
     }
