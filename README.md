@@ -7,4 +7,15 @@
   <li>yarn run dev-server</li>
   <li>yarn run build      (to create the bundle.js file)</li>
 </ol>
+Note:
+  default url : http://localhost:8080/
 </h4>
+Features : 
+<ul>
+  <li>Live update on save</li>
+  <li>Define containers in src/component folder</li>
+  <li>Define styling in src/styles/components and import the file in src/styles/styles.scss 
+    <br>Example file = '_random.scss' {remember to add an underscore in the beginning and small caps}
+    <br>@import './styles/random'
+  </li>
+<ul>
