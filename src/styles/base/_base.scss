@@ -1,0 +1,30 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: $m-size;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:focus {
+    outline: none;
+}
+
+input:focus {
+    outline: none;
+}
+
+.main {
+    margin-top: $m-size;
+    overflow-x: auto;
+    position: absolute;
+    bottom: 2em;
+    width: 100%;
+    top: 84px;
+    // margin-top: $l-size;
+}
