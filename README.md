@@ -4,8 +4,9 @@
 <h4>
 <ol>
   <li>npm install</li>
+  <li>npm audit fix       {this is optional and you can run it any time during development}</li>
   <li>yarn run dev-server</li>
-  <li>yarn run build      (to create the bundle.js file)</li>
+  <li>yarn run build      (to create the bundle.js file, this is optional and probably won't be used)</li>
 </ol>
 Note:
   default url : http://localhost:8080/
